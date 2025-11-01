@@ -1,2 +1,3 @@
 # Marquee-console-updated
-updated marquee console for CSOPESY,
+updated marquee console for CSOPESY, includes displayHandler()
+
